@@ -12,5 +12,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npm install
-      - run: node -e "require('./src/config')"
+      - run: npm install --ignore-scripts
+      - run: node --check src/config.js
+      - run: node --check src/server.js

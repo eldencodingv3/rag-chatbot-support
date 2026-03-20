@@ -4,7 +4,7 @@ const lancedb = require('@lancedb/lancedb');
 const OpenAI = require('openai');
 const config = require('./config');
 
-const openai = new OpenAI.default({ apiKey: config.openaiApiKey });
+const openai = new OpenAI({ apiKey: config.openaiApiKey });
 
 async function getEmbedding(text) {
   const response = await openai.embeddings.create({

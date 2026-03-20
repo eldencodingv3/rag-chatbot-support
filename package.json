@@ -8,9 +8,9 @@
     "dev": "node --watch src/server.js"
   },
   "dependencies": {
-    "@lancedb/lancedb": "^0.13.0",
+    "@lancedb/lancedb": "^0.27.0",
     "apache-arrow": "^18.1.0",
     "express": "^4.21.0",
-    "openai": "^4.77.0"
+    "openai": "^4.104.0"
   }
 }

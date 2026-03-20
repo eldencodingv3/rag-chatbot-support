@@ -3,7 +3,7 @@ const OpenAI = require('openai');
 const config = require('./config');
 const { getEmbedding } = require('./ingest');
 
-const openai = new OpenAI.default({ apiKey: config.openaiApiKey });
+const openai = new OpenAI({ apiKey: config.openaiApiKey });
 
 let db = null;
 let table = null;
