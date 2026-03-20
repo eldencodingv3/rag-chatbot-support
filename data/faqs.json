@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day return policy for all unused items in their original packaging. To initiate a return, please contact our support team with your order number. Refunds are processed within 5-7 business days after we receive the returned item."
+  },
+  {
+    "id": 2,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days within the continental US. Expedited shipping (2-3 business days) is available for an additional fee. You will receive a tracking number via email once your order ships."
+  },
+  {
+    "id": 3,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, Mastercard, American Express, Discover), PayPal, Apple Pay, and Google Pay. All transactions are secured with SSL encryption."
+  },
+  {
+    "id": 4,
+    "question": "How do I create an account?",
+    "answer": "Click the 'Sign Up' button on our homepage and fill in your name, email address, and a password. You will receive a confirmation email to verify your account. Once verified, you can start shopping and tracking your orders."
+  },
+  {
+    "id": 5,
+    "question": "How can I track my order?",
+    "answer": "Log in to your account and visit the 'My Orders' section to see real-time tracking updates. You can also use the tracking number sent to your email to track your package directly on the carrier's website."
+  },
+  {
+    "id": 6,
+    "question": "What is your product warranty?",
+    "answer": "All products come with a 1-year limited warranty covering manufacturing defects. The warranty does not cover damage from misuse or normal wear and tear. To file a warranty claim, contact our support team with your order number and photos of the issue."
+  },
+  {
+    "id": 7,
+    "question": "How do I cancel an order?",
+    "answer": "You can cancel an order within 1 hour of placing it by visiting 'My Orders' and clicking 'Cancel Order'. After 1 hour, the order may have already entered processing and cannot be cancelled. In that case, you can return the item after delivery."
+  },
+  {
+    "id": 8,
+    "question": "Do you offer discounts or promo codes?",
+    "answer": "Yes! Sign up for our newsletter to receive a 10% off welcome discount. We also run seasonal sales and offer exclusive promo codes to our loyalty program members. Check our 'Deals' page for current promotions."
+  },
+  {
+    "id": 9,
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our support team via email at support@example.com, by phone at 1-800-555-0199 (Mon-Fri 9am-6pm EST), or through the live chat feature on our website. We typically respond within 24 hours."
+  },
+  {
+    "id": 10,
+    "question": "Do you offer technical support for products?",
+    "answer": "Yes, we provide free technical support for all our products. You can access troubleshooting guides in our Help Center, join our community forum, or contact our technical support team directly via email or phone for personalized assistance."
+  },
+  {
+    "id": 11,
+    "question": "Can I use gift cards for purchases?",
+    "answer": "Yes, we offer digital gift cards in denominations of $25, $50, $100, and $200. Gift cards can be applied at checkout and never expire. If your order total exceeds the gift card balance, you can pay the remaining amount with another payment method."
+  },
+  {
+    "id": 12,
+    "question": "How do I manage my subscription?",
+    "answer": "Log in to your account and go to 'Subscriptions' to view, pause, or cancel your active subscriptions. You can change your subscription plan, update payment information, or modify delivery frequency at any time. Changes take effect on your next billing cycle."
+  },
+  {
+    "id": 13,
+    "question": "What is your privacy policy?",
+    "answer": "We take your privacy seriously. We collect only the information necessary to process your orders and improve your experience. We never sell your personal data to third parties. You can view our full privacy policy on our website or request a copy from our support team."
+  },
+  {
+    "id": 14,
+    "question": "How do I find the right size?",
+    "answer": "Each product page includes a detailed size guide with measurements in both inches and centimeters. We recommend measuring yourself and comparing with our size chart for the best fit. If you are between sizes, we suggest ordering the larger size."
+  },
+  {
+    "id": 15,
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping typically takes 10-15 business days. Customs duties and taxes may apply depending on your country and are the responsibility of the recipient. Shipping rates are calculated at checkout."
+  }
+]
